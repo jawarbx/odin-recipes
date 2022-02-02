@@ -1,2 +1,3 @@
 # odin-recipes
-TOP Project 1
+Basic recipe website using current html knowledge
+
